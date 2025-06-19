@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Nader7x 👋
 
-<!--
-**Nader7x/Nader7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBscjU4Y3U4a3B2a3JqZ3A0cTZyZ3BqY3IzbXJ6emc2cDIzanZzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80E/giphy.gif" width="50" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Software Engineer with a fresh perspective on modern software development. As a recent graduate in Software Engineering, I bring enthusiasm for learning and implementing cutting-edge technologies to solve real-world problems.
+
+## 🛠️ Skills
+
+Here are some of the technologies I've been working with:
+
+- **Languages:** Python, JavaScript, C#
+- **Frameworks & Libraries:** Spring Boot, Django, React, Node.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, Github, Docker
+
+## 📂 Projects
+
+Here are some of my top projects:
+
+*   **[Vaccination_scheduling_System](https://github.com/Nader7x/Vaccination_scheduling_System):** A system for scheduling vaccination appointments.
+*   **[Footex](https://github.com/Nader7x/Footex):** A Football Matches Simulation Platform.
+*   **[Electricity_Billing_System](https://github.com/Nader7x/Electricity_Billing_System):** A project for managing electricity billing.
+*   **[DevOpsWebsite](https://github.com/Nader7x/DevOpsWebsite):** A DevOps platform to make the development and operations lifecycle much easier.
+*   **[MSWordLists](https://github.com/Nader7x/MSWordLists):** A plugin for integrating different types of lists in MS Word.
+
+## 📫 How to Reach Me
+
+- 🌐 [nader7x.me](https://nader7x.me/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nader7x)
+
+## 📊 GitHub Stats
+
+[![Nader7x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nader7x&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nader7x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
