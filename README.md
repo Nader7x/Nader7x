@@ -13,7 +13,7 @@ I'm a passionate Software Engineer with a fresh perspective on modern software d
 Here are some of the technologies I've been working with:
 
 - **Languages:** Python, JavaScript, C#
-- **Frameworks & Libraries:** Spring Boot, Django, React, Node.js
+- **Frameworks & Libraries:** Node.js, React, .NET Core, Next.js
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, Github, Docker
 
